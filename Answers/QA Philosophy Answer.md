@@ -9,7 +9,7 @@ You can address topics, including but not limited to:
 - As part of a CI/CD pipeline, what should be tested, and when?
  
 
-##Answer 
+## Answer 
 
 - Anticaptes : starts the work before the software is built, review specifications, asks questions and challenges the product owners and developers choices.
 - Participates : in different Agile rituals and team meetings in the two sides Product and Tech so it can accumaltes knowledge on the different functionnalities available in the software and also the miscellaneous technical parts.
