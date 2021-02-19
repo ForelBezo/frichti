@@ -16,8 +16,14 @@ describe('Visit Frichti', () => {
         cy.get('.sc-8n0g83-3').click()
         cy.get('.kXJolS > .qd3ckk-5').click()
         // The visitor need some baguette after all we are in the contry of bread
-        cy.contains('Boulangerie').click({force: true})
-        cy.get('[data-testid="add"]').eq(4).click({force: true})
+        //cy.contains('Pain, baguette').click({force: true})
+        cy.get('#main-nav-item-market-group').trigger('mouseover')
+        cy.contains('Pains & viennoiseries').click({force: true})
+        cy.url().should('contain','/c/market-group#pain-group')
+        cy.contains('Baguette tradition artisanale').click()
+        cy.contains('Baguette tradition artisanale').should('be.visible')
+        cy.get('.a7hkjv-6 > .sc-3tymhe-0 > .sc-3tymhe-2').click({force: true})
+        //cy.get('[data-testid="add"]').eq(4).click({force: true})
         cy.get('[data-testid="cart"]').click({force: true})
         // we check if the selected item is visible into the cart
         cy.contains('Baguette tradition artisanale').should('be.visible')
