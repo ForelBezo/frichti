@@ -16,11 +16,7 @@ You can address topics, including but not limited to:
 - Communicates : one of the major roles of the QA is giving feedback about software quality to different projects stakeholders
 
 Besides these key points, I think that the QA should be integrated in the whole development cycle from the specifications to shiping to production environment. Firsly, challenging product choices and speicifcations through asking relevant questions in order to make understanding unified of the features to develop. In the other hand, by communicating with developers about unit and integration tests coverage in order to enhance end to end automated tests coverage and avoir redundancy. Then comes the critical and final part, by testing what was developed and giving feedback untill the production deployment. Finally by monitoring production activity to ensure what was shipped is working properly for the end user.
-
-In the frame of CI/CD I think to estblish set test automatized like spinal column who covers the most critical perimeter.
-The framework test is triggered after the build in order to valid building, if the test passed successfully the new build is integrated in the system.
-If the result of test is not passed the feature return to the devlopper.  
-
+ 
 In the context of a CI/CD pipeline, we have many options to include the QA in the process. 
 The main goal is to ensure that the new developpement does not introducte regressions in the existing feature. 
 This is the reason the e automated tests should be triggered after the software build finished. 
