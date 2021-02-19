@@ -1,0 +1,15 @@
+{
+  "name": "frichti-test",
+  "version": "1.0.0",
+  "description": "In this document you'll find 3 questions: - a Tech Question - a Product Question - a QA Philosophy Question",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frichti":"cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.5.0"
+  }
+}
