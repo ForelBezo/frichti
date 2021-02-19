@@ -10,4 +10,4 @@ npm i
 npx cypress open (Visualiser les tests avec le runner) 
 npx cypress run (headless) 
 
-C'etait un plaisir Bonne demo.
+enjoy the demo
