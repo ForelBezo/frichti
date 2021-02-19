@@ -2,7 +2,6 @@
 All the test with Cypress code with the respone of question is there
 The answer about criteria of acceptance in language gherkin are in the Answer folder and my response about test philosophy 
 
-Pour exploiter le code Cypress voici les étapes à suivre:
 For using the code of cypress here are the steps to follow:
 
 git clone https://github.com/ForelBezo/frichti/
