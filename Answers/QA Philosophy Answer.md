@@ -25,6 +25,6 @@ Generally, those are executed in a testing environment and publish reports to in
 
 ## Return of Experience
 
-During this test in the part of automation I constate the lack of idUnique and data test when can use like locator in order to build more easier and effiecently the test.
-The QA is essential inside of team because his reporting is useful to scale up the whole quality before and after to ship to production
+During this test in the part of automation I noticed the lack of idUnique and data test when can use like locator in order to build more easier and efficient the test.
+The QA is essential inside of the team because his reporting is useful to scale up the whole quality before and after to ship to production
 
