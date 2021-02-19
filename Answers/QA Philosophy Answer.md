@@ -21,3 +21,4 @@ In the context of a CI/CD pipeline, we have many options to include the QA in th
 The main goal is to ensure that the new developpement does not introducte regressions in the existing feature. 
 This is the reason the e automated tests should be triggered after the software build finished. 
 Generally, those are executed in a testing environment and publish reports to inform all the team of the test results.
+
