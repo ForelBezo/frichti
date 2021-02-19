@@ -11,6 +11,7 @@ You can address topics, including but not limited to:
 
 ## Answer 
 
+Among the quality of QA in the teams are: 
 - Anticaptes : starts the work before the software is built, review specifications, asks questions and challenges the product owners and developers choices.
 - Participates : in different Agile rituals and team meetings in the two sides Product and Tech so it can accumaltes knowledge on the different functionnalities available in the software and also the miscellaneous technical parts.
 - Communicates : one of the major roles of the QA is giving feedback about software quality to different projects stakeholders
@@ -21,4 +22,8 @@ In the context of a CI/CD pipeline, we have many options to include the QA in th
 The main goal is to ensure that the new developpement does not introducte regressions in the existing feature. 
 This is the reason the e automated tests should be triggered after the software build finished. 
 Generally, those are executed in a testing environment and publish reports to inform all the team of the test results.
+
+## Return of Experience
+
+During this test in the part of autaomation I constate the lack of id  and data test when can use like locator in order to build more easier and effiecently the test.The QA is essential inside of team because his reporting is useful to scale up the whole quality before and after to ship to production
 
