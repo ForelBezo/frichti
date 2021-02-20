@@ -12,10 +12,11 @@ You can address topics, including but not limited to:
 ## Answer 
 
 Among the qualities of QA in the teams are: 
-- Anticipation: when starts the work before the software is built, review specifications, asks questions and challenges the product owners and developers choices.
+- Anticipation: when starts the work before the software is built, review specifications, asks questions and challenges the product owners and developer's choices.
 - Willing : At different Agile rituals and team meetings in the two sides Product and Tech so it can accumulate knowledge on the different functionalities available in the software and also the miscellaneous technical parts.
 - communicative : communicates one of the major roles of the QA is giving feedback about software quality to different projects stakeholders
-- Firm in the position: The QA would struggle to stay in his position in the case when the squad decised somme requirement for reaching level of quality.The QA must remember them we decide something and we must stay in this position for the good of all even the final decision does not belong to him
+- Firm : when comes time for giving his recommendation at the end of a sprint, it's sometimes necessary be firm because the QA must defend the requirement and the quality level to achieve, who had established before the sprint (in frame of agile methodology) over which all of members of the project have agreed before delivering
+
 Those qualities help the QA in his job and setup him in good position to help all people to work nicely for carrying out the project because the quality is the result of different things who come from each person and the product is the result of this collaboration.
 
 Besides these key points, I think that the QA should be integrated in the whole development cycle from the specifications to shiping to production environment. Firsly, challenging product choices and speicifcations through asking relevant questions in order to make understanding unified of the features to develop. In the other hand, by communicating with developers about unit and integration tests coverage in order to enhance end to end automated tests coverage and avoir redundancy. Then comes the critical and final part, by testing what was developed and giving feedback untill the production deployment. Finally by monitoring production activity to ensure what was shipped is working properly for the end user.
@@ -24,6 +25,9 @@ In the context of a CI/CD pipeline, we have many options to include the QA in th
 The main goal is to ensure that the new developpement does not introducte regressions in the existing feature. 
 This is the reason the e automated tests should be triggered after the software build finished. 
 Generally, those are executed in a testing environment and publish reports to inform all the team of the test results.
+
+Therefore, the QA is who the guarantor of quality level to reach, for that, the QA have to lead  all development cell toward the decision  taken before about the requirement  and to keep in this direction for the good of all beacause the quality concern whole of the company. For, the quality impact on the reputation of Company  and this reputation   the reputation vis-à-vis its customers which will tarnish its image, the final result is the loss or even the fall in turnover.
+The final decision does not belong to the QA but he can advise and help the decision-making with his product vision which is built during the test activities carried out from design to development
 
 ## Feedback
 
