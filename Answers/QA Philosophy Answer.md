@@ -26,8 +26,8 @@ The main goal is to ensure that the new developpement does not introduce regress
 This is the reason the e automated tests should be triggered after the software build finished. 
 Generally, those are executed in a testing environment and reports are published to inform all the team of the test results.
 
-Therefore, the QA is the guarantor of quality level to reach, for that, the QA has to lead  all development cell toward the decision taken before about the requirement  and to keep in this direction for the good of all beacause the quality concern whole of the company. For, the quality impacts on the reputation of Company  and this reputation vis-à-vis its customers which will tarnish its image, the final result is the loss or even the fall in turnover.
-The final decision does not belong to the QA but he can advise and help the decision-making with his product vision which is built during the test activities carried out from design to development
+Therefore, the QA is the guarantor of quality level to reach, for that, the QA has to lead  all development cell toward the decision taken before about the requirement  and to keep in this direction for the good of all beacause  the quality is the concern of the whole company. For that, the quality impacts the reputation of the company  and this reputation vis-à-vis its customers which may tarnish its image, the final result might be the  loss or even the fall in turnover.
+The final decision does not belong to the QA but he/she could advise and help the decision-making with his/her product's vision which is built during the test activities carried out from design to development
 
 ## Feedback
 
