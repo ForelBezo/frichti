@@ -4,7 +4,7 @@
 ### User Story
 > As a returning buyer, I want to be able to re-order my last grocery bag from the Frichti Market catalog page, so that I will be able to checkout faster and more frequently.
 
-Scenario: As a returning buyer, I want to check out his last order.
+Scenario: As a returning buyer, I want to check out my last order.
 Given : As a buyer logged into my frichti account
 When : I can see my last bag
 Then : I will be able to check out.
