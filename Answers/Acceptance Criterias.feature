@@ -6,8 +6,8 @@
 
 Scenario: As a returning buyer, I want to check out his last order.
 Given : As a buyer logged into my frichti account
-When: I can see my last bag
-Then: I will be able to check out.
+When : I can see my last bag
+Then : I will be able to check out.
 
 Scenario: As a returning buyer, I want to re-order some items from my last order.
 
