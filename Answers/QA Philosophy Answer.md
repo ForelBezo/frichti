@@ -12,7 +12,7 @@ You can address topics, including but not limited to:
 ## Answer 
 
 Among the qualities of QA in the teams are: 
-- Anticipation:Anticipation : when the work starts before the software is built, review specifications, asks questions and challenges the product owners and developer's choices.
+- Anticipation : when the work starts before the software is built, review specifications, asks questions and challenges the product owners and developer's choices.
 - Willing : At different Agile rituals and team meetings in the two sides Product and Tech so it can accumulate knowledge on the different functionalities available in the software and also the miscellaneous technical parts.
 - communicative : communicates one of the major roles of the QA is giving feedback about software quality to different projects stakeholders
 - Firm : when comes time for giving his recommendation at the end of a sprint, it is sometimes necessary to be firm because the QA must defend the requirement and the quality level to achieve, which had been established before the sprint (in frame of agile methodology) over which all of members of the project have agreed before delivering
